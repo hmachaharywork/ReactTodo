@@ -1,7 +1,5 @@
-REACT JS SIMPLE BOILERPLATE.
+Simple Todo app in React.
 
-1. Loaded with jQuery and Foundation.
-2. Dependency management with webpack.
-3. Testing with Karma and Mocha.
-
-
+1. Clone the repository.
+2. `cd into the folder` and run `npm install`.
+3. Run `node server.js` to start the application.
